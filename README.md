@@ -4,7 +4,7 @@ This MATLAB function plots the Gaussian line/ellipse/ellipsoid represented by $X
 $$
 \begin{gather}
     X \in \mathbb{R}^{d\times 1} \\
-    S \in \mathbb{R}^{d\times D} 
+    S \in \mathbb{R}^{d\times d} 
 \end{gather}
 $$
 
